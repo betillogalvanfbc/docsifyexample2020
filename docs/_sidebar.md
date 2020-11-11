@@ -1,0 +1,7 @@
+- [Documentación de la Base de Datos](/docs/web/index)
+    - [Menu](/web/menu/index)
+        - [Ingredientes](web/menu/Ingredients)
+        - [Categorías de Ingredientes](/web/menu/IngredientCategories)
+        - [Productos Semi-Terminados](/web/menu/Semi-FinishedProducts)
+        - [Categorías de Productos](/web/menu/ProductsCategories)
+        - [Productos](/web/menu/Products)
